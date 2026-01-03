@@ -6,7 +6,6 @@
 [![dbt Version](https://img.shields.io/badge/dbt-v1.10.17-FF6B35?style=flat-square&logo=dbt)](https://docs.getdbt.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 ## 📋 Описание проекта
 
